@@ -1,2 +1,6 @@
-# Xfce
-Xfce customization
+# Dotfiles
+Dunst
+Conky
+GTK
+Picom
+Cava
