@@ -1,3 +1,24 @@
 .xfce4-panel {
 	border-radius: 15px;
 }
+
+
+
+
+window.thunar scrolledwindow.standard-view widget.view {
+    background: transparent;
+}
+
+window.thunar scrolledwindow.sidebar treeview.view {
+    background: transparent;
+}
+
+.thunar, 
+.thunar .sidebar, 
+.thunar .sidebar.view { background-color: rgba(0,0,0,0.1); }
+
+
+.thunar, 
+.thunar .standard-view .view{  
+background-color: rgba(0,0,0,0.7);
+}
